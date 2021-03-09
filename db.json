@@ -24,8 +24,8 @@
     }
    "Languages": [
         { "Language": "Dutch", "Proficiency": "Native"},
-        { "Language": "English", "Proficiency": "Fluent"}
-        { "Language": "Morrocan-Arabic", "Proficiency": "Fluent"}
+        { "Language": "English", "Proficiency": "Fluent"},
+        { "Language": "Morrocan-Arabic", "Proficiency": "Fluent"},
         { "Language": "Spanish", "Proficiency": "Intermediate"}
-   ]     }
+   ]     
 }
