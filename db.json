@@ -1,0 +1,31 @@
+{
+    "firstName": "Abderrahman",
+    "lastName": "El Fellah",
+    "address": {
+        "streetAddress": "Provence 13",
+        "city": "Utrecht",
+        "state": "NL",
+        "postalCode": "3524RP"
+    },
+    "phoneNumbers": [
+        { "type": "mobile", "number": "31637994320" }
+    ],
+    "Experiences": [
+        { "Company": "Trengo", "Jobtitle": "Account Executive", "Description": "Customer Service Platform where I was responsible to assess needs and demo our product to see if it would solve the needs. I was the first hire in the sales team and saw it grow to a team of of 10 people. I was able to handle all technical questions and help them navigating our API and think of solutions to integrate with their other SaaS solutions."},
+
+        { "Company": "Sungevity", "Jobtitle": "Sr. Solar Consultant", "Description": "Discussing the wishes of the customers and remotely measure the roof with satelite data. Using those measurments and calculated potential shadowing to design the best possible system and sell that system"},
+
+        { "Company": "Backbase", "Jobtitle": "Business Development Rep APAC", "Description": "Taling to C I/D/T O's of big banks in the Asia Pacific regions. Mostly to discover their needs in terms of a digital transformation. After doing discovery and first demo create opportunities for the Account Executives."}
+        ],
+    "Education": [
+        { "University": "Open University", "Bachelor": "Psychology"},
+        { "University": "University of Applied sciences", "Bachelor": "International Business and Languages"}
+    ]
+    }
+   "Languages": [
+        { "Language": "Dutch", "Proficiency": "Native"},
+        { "Language": "English", "Proficiency": "Fluent"}
+        { "Language": "Morrocan-Arabic", "Proficiency": "Fluent"}
+        { "Language": "Spanish", "Proficiency": "Intermediate"}
+   ]     }
+}
